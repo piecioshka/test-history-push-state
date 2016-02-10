@@ -1,7 +1,7 @@
 (function () {
     'use strict';
 
-    var pathname = location.pathname;
+    var pathname = '/test-history-push-state/';
 
     function setupMenuLink($item, data, title, url) {
         $item.href = url;
