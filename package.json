@@ -1,6 +1,7 @@
 {
     "private": true,
     "name": "test-history-push-state",
+    "license": "MIT",
     "scripts": {
         "deploy": "node tasks/deploy.js"
     },
